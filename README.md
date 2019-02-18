@@ -1,2 +1,2 @@
 # ebaby-link
-template ebaby
+Template ebaby
